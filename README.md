@@ -1,8 +1,10 @@
 ![image](https://github.com/user-attachments/assets/e5995852-b332-406c-935a-03bdef4237fb)
 funcionalidade que checa se usuario e senha estao corretos:
 ![image](https://github.com/user-attachments/assets/8f8bf11f-25d3-4475-b321-ea03b9a09198)
+
 usuario e senha corretos:
 ![image](https://github.com/user-attachments/assets/a10e1a2a-3b9c-40a6-84ef-aa46068e7a72)
+
 usuario e senha incorretos:
 ![image](https://github.com/user-attachments/assets/5c308993-8fd7-4be1-bb1d-72caef9eca6a)
 
